@@ -1,0 +1,29 @@
+{
+  "name": "stackpulse-protocol",
+  "version": "0.1.2",
+  "description": "Protocol layer for StackPulse - Core blockchain interactions",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "stacks",
+    "pulse",
+    "protocol",
+    "blockchain"
+  ],
+  "author": "AdekunleBamz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdekunleBamz/StackPulse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AdekunleBamz/StackPulse/issues"
+  },
+  "homepage": "https://github.com/AdekunleBamz/StackPulse#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
